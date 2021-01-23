@@ -7,8 +7,8 @@ Team: Yuliia Nikolaenko, Eduardo Bonnefemne, Gabriel Pérez García, Mihaela Gri
 
 Questions to answer:
 
-1.What error rate can we expect on the test set?
-2.What is the best model?
+1. What error rate can we expect on the test set?
+2. What is the best model?
 3. What are the most important variables to predict the outcome?
 
 Methods: k-Nearest Neighbors classifier (kNN), Discriminant Analysis, Logistic Regression
